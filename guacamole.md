@@ -5,6 +5,7 @@
 * sal
 * pimienta
 * ajo
+* cebolla
  
 ###  Preparación
 
